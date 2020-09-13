@@ -1,2 +1,0 @@
-# shellphish-
-Shellphish.sh 
